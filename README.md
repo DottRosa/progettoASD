@@ -18,17 +18,15 @@ Il tutto deve essere eseguito partendo da un input in formato .dot e restituendo
 
 ## Come eseguire il programma
 
-Il programma in questione è la versione priva di package, quindi:
-
-1. Per compilare il programma risolutivo è necessario eseguire l’istruzione:
+Il programma in questione è la versione priva di package. Per compilare il programma risolutivo è necessario eseguire l’istruzione:
 
 > javac Project.java
 
-2. Allo stesso modo per il programma per il calcolo dei tempi, eseguire l’istruzione:
+Allo stesso modo per il programma per il calcolo dei tempi, eseguire l’istruzione:
 
 > javac TimingAnalysis.java
 
-3. Così facendo tutte le classi utilizzate dai due programmi saranno automaticamente compilate. Per eseguire il programma risolutivo e il calcolo dei tempi bisogna eseguire:
+Così facendo tutte le classi utilizzate dai due programmi saranno automaticamente compilate. Per eseguire il programma risolutivo e il calcolo dei tempi bisogna eseguire:
 
 > java Project \<input.dot\> output.dot
 

@@ -28,5 +28,5 @@ Allo stesso modo per il programma per il calcolo dei tempi, eseguire l’istruzi
 Così facendo tutte le classi utilizzate dai due programmi saranno automaticamente compilate.
 Per eseguire il programma risolutivo e il calcolo dei tempi bisogna eseguire:
 
-> java Project <input.dot> output.dot
+> java Project \<input.dot\> output.dot
 > java TimingAnalysis

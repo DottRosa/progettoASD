@@ -1,5 +1,8 @@
 # Risoluzione al problema dell’aggiunta del minor numero di archi e identificazione dell’albero dei cammini minimi di un grafo orientato
 
+### Autore: MARCO ROSA
+### Per uno studio più approfondito di tutti gli aspetti del programma invito a scaricare la relazione (relazione.pdf)
+
 
 ## Enunciato del problema
 

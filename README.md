@@ -29,4 +29,5 @@ Così facendo tutte le classi utilizzate dai due programmi saranno automaticamen
 Per eseguire il programma risolutivo e il calcolo dei tempi bisogna eseguire:
 
 > java Project \<input.dot\> output.dot
+
 > java TimingAnalysis

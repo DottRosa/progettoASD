@@ -14,7 +14,7 @@ Dato in input un grafo orientato G = (V, E):
 
 3. tratteggiare gli opportuni archi di G’ per evidenziare l’albero T = (V, Et) di radice r che permette di raggiungere tutti gli altri nodi percorrendo il cammino minimo. Tutti gli altri archi restano invariati.
 
-Il tutto deve essere eseguito partendo da un input in formato .dot e restituendo il grafo in output (rappresentazione sia di G’ che dell’albero T) anch’esso in formato .dot.
+Il tutto deve essere eseguito partendo da un input in formato .dot e restituendo il grafo in output (rappresentazione sia di G’ che dell’albero T) anch’esso in formato .dot. Infine le performance del programma sono state testate utilizzando opportuni algoritmi per il calcolo dei tempi (le misure quindi variano da macchina a macchina).
 
 ## Come eseguire il programma
 
